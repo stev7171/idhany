@@ -12,4 +12,5 @@ The working .EXE file is in idhany/dist/game.
 
 ## Website ##
 
-No website yet, but I might make a github pages thing eventually.
+The website doesn't have much, but eventually I'll have some Q&As and other stuff on it.  
+Website: https://stev7171.github.io/idhany/
