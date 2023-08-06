@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color: darkslategray;
+    text-align: center;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    color: greenyellow;
+}
+
+a {
+    color: cyan;
+}
